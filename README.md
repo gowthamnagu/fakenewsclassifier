@@ -40,6 +40,7 @@ Run the main file to start the application:
 
     streamlit run app.py
 ## Project Structure
+```
 .
 ├── data/
 │   ├── processed/
@@ -57,7 +58,8 @@ Run the main file to start the application:
 ├── dvc.yaml
 ├── params.yaml
 ├── app.py
-└── README.md  
+└── README.md
+```
 ## Experiment Tracking with DagsHub
 
 All code, data, models, and metrics are versioned using DVC and tracked on DagsHub.
