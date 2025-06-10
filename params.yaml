@@ -1,0 +1,10 @@
+preprocess:
+  input: data/raw/data.csv
+  output: data/processed/data.csv
+
+train:
+  data: data/processed/data.csv
+  model: models/model.pkl
+  epochs: 10
+  batch_size: 64
+    
