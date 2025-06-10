@@ -60,6 +60,10 @@ Run the main file to start the application:
 ├── app.py
 └── README.md
 ```
+## Data Pipeline
+
+![Data Pipeline](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/datapipeline.png)
+
 ## Experiment Tracking with DagsHub
 
 All code, data, models, and metrics are versioned using DVC and tracked on DagsHub.
