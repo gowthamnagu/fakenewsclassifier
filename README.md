@@ -66,6 +66,7 @@ Run the main file to start the application:
 
 ## Experiment Tracking with DagsHub
 
-All code, data, models, and metrics are versioned using DVC and tracked on DagsHub.
+All code, data, models, and metrics are versioned using DVC and tracked on DagsHub and MLFlow.
 
 DagsHub Repo: https://dagshub.com/gowthambreeze/fakenewsclassifier.git
+MlFlow :https://dagshub.com/gowthambreeze/fakenewsclassifier.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
