@@ -4,7 +4,7 @@ preprocess:
 
 train:
   data: data/processed/data.csv
-  model: models/model.pkl
+  model: models/model.h5
   epochs: 10
   batch_size: 64
     

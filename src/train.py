@@ -78,9 +78,9 @@ def train_model(data_path,model_path,epochs,batch_size):
 
         os.makedirs(os.path.dirname(model_path),exist_ok=True)
 
-        filename=model_path
-        pickle.dump(final_model,open(filename,'wb'))
-
+        #filename=model_path
+        #pickle.dump(final_model,open(filename,'wb'))     
+        final_model.save("models/model.keras")   
         print(f"Model saved to {model_path}")
 
 if __name__=="__main__":
