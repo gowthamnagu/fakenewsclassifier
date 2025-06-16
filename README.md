@@ -1,5 +1,5 @@
 
-# Fake News Classifier
+## Fake News Classifier
 
 A NLP and deep learning -based web application to classify news articles as **Fake** or **Real**, using LSTM. The project is built with Python, Streamlit, DVC, and DagsHub.
 
