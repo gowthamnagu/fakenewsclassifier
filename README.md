@@ -1,12 +1,12 @@
 
-## 📰 Fake News Classifier
+## 📰 Fake or Fact
 
 A NLP and deep learning -based web application to classify news articles as **Fake** or **Real**, using LSTM. The project is built with Python, Streamlit, DVC, and DagsHub.
 
 
 
 ## 🧠 Project Overview
-The Fake News Classifier is a Machine learning project designed to identify the authenticity of news articles using advance Natural Language Processing (NLP) and Deep Learning Technique.This solition levetages an LSTM (Long Short-Term Memory) neural network to understand the context nad semantics of textual data.
+The Fake or Fact is a Machine learning project designed to identify the authenticity of news articles using advance Natural Language Processing (NLP) and Deep Learning Technique.This solition levetages an LSTM (Long Short-Term Memory) neural network to understand the context nad semantics of textual data.
 ![fake_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/fake_news.png)
 ![real_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/Real_news.png)
 ![real_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/mlflow.png)
@@ -24,7 +24,7 @@ The Fake News Classifier is a Machine learning project designed to identify the 
 
 - **Clone the repository**
     
-       git clone https://dagshub.com/gowthambreeze/fakenewsclassifier.git
+       git clone https://dagshub.com/gowthambreeze/fakeorfact.git
 
 - **Set up a virtual environment** 
 
