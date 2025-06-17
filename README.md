@@ -9,6 +9,7 @@ A NLP and deep learning -based web application to classify news articles as **Fa
 The Fake News Classifier is a Machine learning project designed to identify the authenticity of news articles using advance Natural Language Processing (NLP) and Deep Learning Technique.This solition levetages an LSTM (Long Short-Term Memory) neural network to understand the context nad semantics of textual data.
 ![fake_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/fake_news.png)
 ![real_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/Real_news.png)
+![real_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/mlflow.png)
 
 ## 🛠️ Tech Stack
 - **Python 3.11**
