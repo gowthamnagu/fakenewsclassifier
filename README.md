@@ -1,12 +1,10 @@
 
 ## 📰 Fake or Fact
 
-A NLP and deep learning -based web application to classify news articles as **Fake** or **Real**, using LSTM. The project is built with Python, Streamlit, DVC, and DagsHub.
-
-
+A predictive analysis web application using NLP and Deep Learning to classify news articles as Fake or Real. The model is built with LSTM architecture, enabling accurate text-based predictions. Developed with Python, Streamlit, and managed using DVC and DagsHub for seamless data and model version control.
 
 ## 🧠 Project Overview
-The Fake or Fact is a Machine learning project designed to identify the authenticity of news articles using advance Natural Language Processing (NLP) and Deep Learning Technique.This solition levetages an LSTM (Long Short-Term Memory) neural network to understand the context nad semantics of textual data.
+Fake or Fact is a machine learning project designed to identify the authenticity of news articles using advanced Natural Language Processing (NLP) and Deep Learning techniques. This solution leverages an LSTM (Long Short-Term Memory) neural network to effectively understand the context and semantics of textual data for accurate classification.
 ![fake_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/fake_news.png)
 ![real_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/Real_news.png)
 ![real_news](https://github.com/gowthamnagu/fakenewsclassifier/blob/main/images/mlflow.png)
